@@ -1,3 +1,3 @@
-# simple-res
-my name is joud alqrashi
+# sample-repository
+This is a sample 
 we have edited the README file.
